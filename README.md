@@ -55,8 +55,13 @@ Desenvolvemos nosso protótipo de alta fidelidade por meio da ferramento figma. 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/109049321/209585955-5626cacd-ef87-4171-892e-a1870787430b.png" width="700px"/>
+  
+***
+  
 <img src="https://user-images.githubusercontent.com/109049321/209585878-2c272d9d-bb81-4d4b-a134-d72fc852cd5a.png" width="700px"/>
 </div>
+
+
 ***
 
 ## 5. Deploy
