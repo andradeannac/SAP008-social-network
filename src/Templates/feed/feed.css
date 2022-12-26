@@ -50,11 +50,10 @@ body {
     cursor: pointer;
     height: 2rem;
     width: 8%;
-    border-color:#ffffff;
-    border-radius: 3px;
+    border:none;
     background: #20a2b8;
-    box-shadow:inset 0px 1px 0px 0px #deecde;
     color:rgb(255, 255, 255);
+    font-size: 1rem;
   }
   .botaoLogout:hover {
     background: #ffc248;
@@ -147,7 +146,6 @@ body {
   }
   .btn-pages:hover {
     background: #ffc248;
-    transition: 1s;
     }
   .btn-pages:active{
     position:relative;
@@ -162,7 +160,6 @@ body {
   }
   #btn-menu:hover{
     background-color: #ffc248;
-    transition: 0.1s;
     cursor: pointer;
   }
   .img-menu{
@@ -252,7 +249,7 @@ body {
 
     }
     .caixa-de-texto{
-      width: 89%;
+      width: 80%;
       padding: 20px;
       border-radius: 15px;
       display: block;

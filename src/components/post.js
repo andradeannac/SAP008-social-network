@@ -14,15 +14,13 @@ export default (post) => {
           <div class="conjPost" >
             <button type="submit" data-id="${pt.id}" id="botaoEditar" class="botaoEditar">Editar</button>
             <button type="submit" data-id="${pt.id}" id="botaoDeletar" class="botaoDeletar">Deletar</button>
-            <div class="like">
-            <button type= "button"  class="botaoCurtir" id="botaoCurtir" 
+            <button type="button"  class="botaoCurtir" id="botaoCurtir" 
                data-id="${pt.id}" 
                data-like="${pt.like}" 
                data-likecount= ${pt.like.length}>
               <span class='like-icon ${pt.like ? 'liked-red' : ''}'>&#10084;</span>
               <span class='like-count'>${pt.like.length}</span>
             </button>
-            </div>
           </div>
       </div>
      </section>

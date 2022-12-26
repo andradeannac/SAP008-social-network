@@ -17,15 +17,29 @@
     padding: 2%;
  }
  .conjPost{
-    width: 50%;   
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   width: 50%; 
+   padding: 0.3rem; 
  }
- .botaoCurtir{
-    width: 100%;
+ .botaoCurtir,
+ .botaoEditar,
+ .botaoDeletar{
+    width: 20%;
+    background-color: #fff;
+    border: none;
  }
  .botaoCurtir img{
     width: 20%;
     height: 20%;
     padding: 5px;
+ }
+ .botaoCurtir:hover,
+ .botaoDeletar:hover,
+ .botaoEditar:hover{
+   background-color: #20a2b8;
+   cursor: pointer;
  }
  @media only screen and (min-width: 600px) {
     .form-postado{
