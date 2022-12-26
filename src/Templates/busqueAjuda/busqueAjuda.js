@@ -31,11 +31,11 @@ export default () => {
   <section id="sectionBe" class="sectionBe">
       <div class="conteudoBe">
         <p><strong>Denunciar e buscar ajuda a vítimas de violência contra mulheres (Ligue 180) || 
-        " Central de Atendimento à Mulher – Ligue 180" , " Lei Maria da Penha"</strong></p><br>
+        " Central de Atendimento à Mulher – Ligue 180" , " Lei Maria da Penha"</strong></p><br><br>
 
-        <p><strong>COMO FUNCIONA</strong></p><br>
+        <p><strong>COMO FUNCIONA</strong></p><br><br>
 
-        A Central de Atendimento à Mulher – Ligue 180 presta uma escuta e acolhida 
+        <p>A Central de Atendimento à Mulher – Ligue 180 presta uma escuta e acolhida 
         qualificada às mulheres em situação de violência. O serviço registra e encaminha 
         denúncias de violência contra a mulher aos órgão competentes, bem como reclamações, 
         sugestões ou elogios sobre o funcionamento dos serviços de atendimento.
@@ -46,9 +46,9 @@ export default () => {
         A ligação é gratuita e o serviço funciona 24 horas por dia, todos os dias da semana. 
         São atendidas todas as pessoas que ligam relatando eventos de violência contra a mulher.
         O Ligue 180 atende todo o território nacional e também pode ser acessado em outros 
-        países.<br><br>
+        países.</p><br><br>
 
-        <p><strong>QUEM PODE UTILIZAR ESSE SERVIÇO?</strong></p><br>
+        <p><strong>QUEM PODE UTILIZAR ESSE SERVIÇO?</strong></p><br><br>
 
         <p>Mulheres em situação de violência ou testemunhas de violência contra mulheres</p><br>
 
