@@ -1,6 +1,6 @@
-import post from '../components/post.js';
-import { createPost, getPosts,} from '../lib/firestore.js';
-import { signOutUser } from '../lib/index.js';
+import post from '../../components/post.js';
+import { createPost, getPosts,} from '../../lib/firestore.js';
+import { signOutUser } from '../../lib/auth.js';
 
 export default () => {
   const container = document.createElement('div');

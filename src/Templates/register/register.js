@@ -1,4 +1,4 @@
-import { createUser } from '../lib/index.js';
+import { createUser } from '../../lib/auth.js';
 
 export default () => {
   const container = document.createElement('div');
