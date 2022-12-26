@@ -73,9 +73,11 @@ Aqui está o link do nosso deploy para que possa navegar:
 
 ## 8. Desenvolvedoras
 *Clique para acessar o Linkedin das desenvolvedoras 
+
+<div align="center">
 :woman_technologist: Anna Clara Andrade(<a href="https://www.linkedin.com/in/andradeannac">@andradeannac</a>)
 :woman_technologist: Juliana Reis(<a href="https://www.linkedin.com/in/juliana-dos-reis-fernandes">@juliana-dos-reis-fernandes</a>)
 :woman_technologist: Barbara Scatolin(<a href="https://www.linkedin.com/in/barbara-scatolin/">@barbara-scatolin</a>)
-
+</div>
 
 
