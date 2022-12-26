@@ -24,6 +24,7 @@ Application
 [_responsiva_](https://curriculum.laboratoria.la/pt/topics/css/02-responsive) (com mais de uma tela/ página) na
 qual seja possível **ler e escrever dados**.
 
+O projeto foi desenvolvido em **mobile first** para uma melhor responsividade
 ***
 
 ## 2. Planejamento
