@@ -1,4 +1,4 @@
-import { signOutUser } from '../lib/index.js';
+import { signOutUser } from '../../lib/auth.js';
 
 export default () => {
   const container = document.createElement('div');
