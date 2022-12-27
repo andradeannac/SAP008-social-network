@@ -65,7 +65,7 @@ Desenvolvemos nosso protótipo de alta fidelidade por meio da ferramento figma. 
 ***
 
 ## 5. Deploy
-(<a href="https://andradeannac.github.io/SAP008-social-network/">Clique aqui</a>) para navegar em nossa rede.
+<a href="https://andradeannac.github.io/SAP008-social-network/index.html">Clique aqui</a> para navegar em nossa rede.
 
 
 ***
