@@ -6,8 +6,9 @@
 * [2. Planejamento](#2-planejamento)
 * [3. Histórias de Usuário](#3-histórias-de-usuário)
 * [4. Protótipo](#4-protótipo)
-* [5. Deploy](#5-deploy)
-* [6. Desenvolvedoras](#6-desenvolvedoras)
+* [5. Testes](#5-testes)
+* [6. Deploy](#6-deploy)
+* [7. Desenvolvedoras](#7-desenvolvedoras)
 
 ***
 
@@ -64,13 +65,19 @@ Desenvolvemos nosso protótipo de alta fidelidade por meio da ferramento figma. 
 
 ***
 
-## 5. Deploy
+## 5. Testes
+
+Os testes foram desenvolvidos para testar as funções implementadas, as quais são testadas as funções de autenticação de usuário do firebase e as funções do firestore.
+
+***
+
+## 6. Deploy
 <a href="https://andradeannac.github.io/SAP008-social-network/index.html">Clique aqui</a> para navegar em nossa rede.
 
 
 ***
 
-## 8. Desenvolvedoras
+## 7. Desenvolvedoras
 
 <div align="center">
 Clique para acessar o Linkedin das desenvolvedoras <br><br>
