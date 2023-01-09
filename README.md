@@ -72,7 +72,7 @@ Os testes foram desenvolvidos para testar as funções implementadas, as quais s
 ***
 
 ## 6. Deploy
-<a href="https://andradeannac.github.io/SAP008-social-network/index.html">Clique aqui</a> para navegar em nossa rede.
+<a href="https://andradeannac.github.io/SAP008-social-network/src/index.html">Clique aqui</a> para navegar em nossa rede.
 
 
 ***
